@@ -1,6 +1,6 @@
 # Digital Sovereignty Denmark (DSDK)
 
-**Open collaboration for Denmark’s digital sovereignty.**
+**🇩🇰 Open collaboration for Denmark’s digital sovereignty.**
 
 _Digital Sovereignty Denmark (DSDK) is an open, community-driven initiative dedicated to exploring, analysing, and strengthening digital sovereignty in Denmark._
 
